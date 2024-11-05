@@ -1,4 +1,5 @@
 # React Authentication Starter using Node REST API
+Setup Steps:
 
 - git clone
 - npm i
